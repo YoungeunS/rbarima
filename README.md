@@ -4,7 +4,7 @@
 Title: rbarima\
 Version: 0.0.0.9001\
 Author: Youngeun Shin <shinyoungeun1130@gmail.com>\
-Description: R shiny forecasting tools for Bass diffusion and ARIMA\
+Description: R shiny forecasting tools for Bass diffusion and ARIMA
 
 ## Installation
 
