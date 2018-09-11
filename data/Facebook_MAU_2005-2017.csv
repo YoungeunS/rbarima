@@ -1,0 +1,261 @@
+Company,Region,Year,Quarter,MAU
+FB,Worldwide,2005,1,2
+FB,Worldwide,2005,2,2
+FB,Worldwide,2005,3,4
+FB,Worldwide,2005,4,6
+FB,Worldwide,2006,1,7
+FB,Worldwide,2006,2,8
+FB,Worldwide,2006,3,10
+FB,Worldwide,2006,4,12
+FB,Worldwide,2007,1,20
+FB,Worldwide,2007,2,29
+FB,Worldwide,2007,3,50
+FB,Worldwide,2007,4,58
+FB,Worldwide,2008,1,70
+FB,Worldwide,2008,2,84
+FB,Worldwide,2008,3,100
+FB,Worldwide,2008,4,145
+FB,Worldwide,2009,1,197
+FB,Worldwide,2009,2,242
+FB,Worldwide,2009,3,305
+FB,Worldwide,2009,4,360
+FB,Worldwide,2010,1,431
+FB,Worldwide,2010,2,482
+FB,Worldwide,2010,3,550
+FB,Worldwide,2010,4,608
+FB,Worldwide,2011,1,680
+FB,Worldwide,2011,2,739
+FB,Worldwide,2011,3,800
+FB,Worldwide,2011,4,845
+FB,Worldwide,2012,1,901
+FB,Worldwide,2012,2,955
+FB,Worldwide,2012,3,1007
+FB,Worldwide,2012,4,1056
+FB,Worldwide,2013,1,1110
+FB,Worldwide,2013,2,1155
+FB,Worldwide,2013,3,1189
+FB,Worldwide,2013,4,1228
+FB,Worldwide,2014,1,1276
+FB,Worldwide,2014,2,1317
+FB,Worldwide,2014,3,1350
+FB,Worldwide,2014,4,1393
+FB,Worldwide,2015,1,1441
+FB,Worldwide,2015,2,1490
+FB,Worldwide,2015,3,1545
+FB,Worldwide,2015,4,1591
+FB,Worldwide,2016,1,1654
+FB,Worldwide,2016,2,1712
+FB,Worldwide,2016,3,1788
+FB,Worldwide,2016,4,1860
+FB,Worldwide,2017,1,1936
+FB,Worldwide,2017,2,2006
+FB,Worldwide,2017,3,2072
+FB,Worldwide,2017,4,2129
+FB,Rest of World,2005,1,0
+FB,Rest of World,2005,2,0
+FB,Rest of World,2005,3,0
+FB,Rest of World,2005,4,0
+FB,Rest of World,2006,1,0
+FB,Rest of World,2006,2,0
+FB,Rest of World,2006,3,0
+FB,Rest of World,2006,4,0
+FB,Rest of World,2007,1,1
+FB,Rest of World,2007,2,2
+FB,Rest of World,2007,3,4
+FB,Rest of World,2007,4,6
+FB,Rest of World,2008,1,8
+FB,Rest of World,2008,2,11
+FB,Rest of World,2008,3,15
+FB,Rest of World,2008,4,23
+FB,Rest of World,2009,1,33
+FB,Rest of World,2009,2,44
+FB,Rest of World,2009,3,58
+FB,Rest of World,2009,4,69
+FB,Rest of World,2010,1,83
+FB,Rest of World,2010,2,98
+FB,Rest of World,2010,3,126
+FB,Rest of World,2010,4,133
+FB,Rest of World,2011,1,161
+FB,Rest of World,2011,2,183
+FB,Rest of World,2011,3,207
+FB,Rest of World,2011,4,225
+FB,Rest of World,2012,1,245
+FB,Rest of World,2012,2,268
+FB,Rest of World,2012,3,288
+FB,Rest of World,2012,4,304
+FB,Rest of World,2013,1,327
+FB,Rest of World,2013,2,346
+FB,Rest of World,2013,3,362
+FB,Rest of World,2013,4,376
+FB,Rest of World,2014,1,395
+FB,Rest of World,2014,2,411
+FB,Rest of World,2014,3,423
+FB,Rest of World,2014,4,436
+FB,Rest of World,2015,1,453
+FB,Rest of World,2015,2,471
+FB,Rest of World,2015,3,492
+FB,Rest of World,2015,4,509
+FB,Rest of World,2016,1,533
+FB,Rest of World,2016,2,556
+FB,Rest of World,2016,3,587
+FB,Rest of World,2016,4,606
+FB,Rest of World,2017,1,632
+FB,Rest of World,2017,2,654
+FB,Rest of World,2017,3,675
+FB,Rest of World,2017,4,692
+FB,North America,2005,1,2
+FB,North America,2005,2,2
+FB,North America,2005,3,4
+FB,North America,2005,4,6
+FB,North America,2006,1,7
+FB,North America,2006,2,8
+FB,North America,2006,3,10
+FB,North America,2006,4,11
+FB,North America,2007,1,17
+FB,North America,2007,2,22
+FB,North America,2007,3,35
+FB,North America,2007,4,37
+FB,North America,2008,1,41
+FB,North America,2008,2,44
+FB,North America,2008,3,48
+FB,North America,2008,4,64
+FB,North America,2009,1,79
+FB,North America,2009,2,89
+FB,North America,2009,3,102
+FB,North America,2009,4,115
+FB,North America,2010,1,130
+FB,North America,2010,2,137
+FB,North America,2010,3,144
+FB,North America,2010,4,154
+FB,North America,2011,1,163
+FB,North America,2011,2,169
+FB,North America,2011,3,176
+FB,North America,2011,4,179
+FB,North America,2012,1,183
+FB,North America,2012,2,186
+FB,North America,2012,3,189
+FB,North America,2012,4,193
+FB,North America,2013,1,195
+FB,North America,2013,2,198
+FB,North America,2013,3,199
+FB,North America,2013,4,201
+FB,North America,2014,1,202
+FB,North America,2014,2,204
+FB,North America,2014,3,206
+FB,North America,2014,4,208
+FB,North America,2015,1,210
+FB,North America,2015,2,213
+FB,North America,2015,3,217
+FB,North America,2015,4,219
+FB,North America,2016,1,222
+FB,North America,2016,2,226
+FB,North America,2016,3,229
+FB,North America,2016,4,231
+FB,North America,2017,1,234
+FB,North America,2017,2,236
+FB,North America,2017,3,239
+FB,North America,2017,4,239
+FB,Europe,2005,1,0
+FB,Europe,2005,2,0
+FB,Europe,2005,3,0
+FB,Europe,2005,4,0
+FB,Europe,2006,1,0
+FB,Europe,2006,2,0
+FB,Europe,2006,3,0
+FB,Europe,2006,4,1
+FB,Europe,2007,1,2
+FB,Europe,2007,2,4
+FB,Europe,2007,3,8
+FB,Europe,2007,4,11
+FB,Europe,2008,1,14
+FB,Europe,2008,2,19
+FB,Europe,2008,3,25
+FB,Europe,2008,4,38
+FB,Europe,2009,1,55
+FB,Europe,2009,2,70
+FB,Europe,2009,3,92
+FB,Europe,2009,4,117
+FB,Europe,2010,1,138
+FB,Europe,2010,2,151
+FB,Europe,2010,3,167
+FB,Europe,2010,4,183
+FB,Europe,2011,1,201
+FB,Europe,2011,2,212
+FB,Europe,2011,3,221
+FB,Europe,2011,4,229
+FB,Europe,2012,1,239
+FB,Europe,2012,2,246
+FB,Europe,2012,3,253
+FB,Europe,2012,4,261
+FB,Europe,2013,1,269
+FB,Europe,2013,2,272
+FB,Europe,2013,3,276
+FB,Europe,2013,4,282
+FB,Europe,2014,1,289
+FB,Europe,2014,2,292
+FB,Europe,2014,3,296
+FB,Europe,2014,4,301
+FB,Europe,2015,1,307
+FB,Europe,2015,2,311
+FB,Europe,2015,3,315
+FB,Europe,2015,4,323
+FB,Europe,2016,1,333
+FB,Europe,2016,2,338
+FB,Europe,2016,3,342
+FB,Europe,2016,4,349
+FB,Europe,2017,1,354
+FB,Europe,2017,2,360
+FB,Europe,2017,3,364
+FB,Europe,2017,4,370
+FB,Asia Pacific,2005,1,0
+FB,Asia Pacific,2005,2,0
+FB,Asia Pacific,2005,3,0
+FB,Asia Pacific,2005,4,0
+FB,Asia Pacific,2006,1,0
+FB,Asia Pacific,2006,2,0
+FB,Asia Pacific,2006,3,0
+FB,Asia Pacific,2006,4,0
+FB,Asia Pacific,2007,1,1
+FB,Asia Pacific,2007,2,1
+FB,Asia Pacific,2007,3,3
+FB,Asia Pacific,2007,4,5
+FB,Asia Pacific,2008,1,7
+FB,Asia Pacific,2008,2,9
+FB,Asia Pacific,2008,3,12
+FB,Asia Pacific,2008,4,20
+FB,Asia Pacific,2009,1,29
+FB,Asia Pacific,2009,2,39
+FB,Asia Pacific,2009,3,52
+FB,Asia Pacific,2009,4,61
+FB,Asia Pacific,2010,1,81
+FB,Asia Pacific,2010,2,96
+FB,Asia Pacific,2010,3,113
+FB,Asia Pacific,2010,4,138
+FB,Asia Pacific,2011,1,156
+FB,Asia Pacific,2011,2,174
+FB,Asia Pacific,2011,3,196
+FB,Asia Pacific,2011,4,212
+FB,Asia Pacific,2012,1,234
+FB,Asia Pacific,2012,2,255
+FB,Asia Pacific,2012,3,277
+FB,Asia Pacific,2012,4,298
+FB,Asia Pacific,2013,1,319
+FB,Asia Pacific,2013,2,339
+FB,Asia Pacific,2013,3,351
+FB,Asia Pacific,2013,4,368
+FB,Asia Pacific,2014,1,390
+FB,Asia Pacific,2014,2,410
+FB,Asia Pacific,2014,3,426
+FB,Asia Pacific,2014,4,449
+FB,Asia Pacific,2015,1,471
+FB,Asia Pacific,2015,2,496
+FB,Asia Pacific,2015,3,522
+FB,Asia Pacific,2015,4,540
+FB,Asia Pacific,2016,1,566
+FB,Asia Pacific,2016,2,592
+FB,Asia Pacific,2016,3,629
+FB,Asia Pacific,2016,4,673
+FB,Asia Pacific,2017,1,716
+FB,Asia Pacific,2017,2,756
+FB,Asia Pacific,2017,3,794
+FB,Asia Pacific,2017,4,828
