@@ -10,7 +10,7 @@ Description: R shiny forecasting tool for Bass diffusion and ARIMA
 
 ``` r
 library(devtools)
-install_github('rbarima','YoungeunS')
+install_github("YoungeunS/rbarima")
 ```
 
 ## Imports
